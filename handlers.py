@@ -26,14 +26,6 @@ def help_1(bot, update):
 		text=help_11,
 		)
 
-
-def help_2(bot, update):
-
-	update.bot.send_message(
-		chat_id='@MoscowITproject',
-		text=channel_1
-		)
-
 # функция для команды 1
 
 def one(bot, update):
