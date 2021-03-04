@@ -16,7 +16,10 @@ def help_1(bot,update):
 		text=help_11,
 		)
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> be4a1ff335b4e13e0abfdb81e62dc6f2def10f23
 # функция для команды 1
 
 def one(bot,update):
