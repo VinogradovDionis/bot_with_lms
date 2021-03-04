@@ -1,5 +1,4 @@
 config.py
-.idea/
 __pycache__/
 images/
-chromedriver.exe
+foo.py
